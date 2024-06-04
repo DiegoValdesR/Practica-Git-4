@@ -1,3 +1,5 @@
 # PROYECTO DE PRACTICA CON GIT
+
 ## 2827725
-@Valdes
+
+bitardos8@gmail.com
